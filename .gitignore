@@ -1,0 +1,12 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.db
+
+# Virtual environment
+venv/
+.env
+
+# Transformers / Hugging Face cache
+.cache/
+.huggingface/
