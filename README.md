@@ -41,6 +41,12 @@ Runs fully **offline** on your machine — no OpenAI API keys needed, no quota l
 | ![upload](images/upload.png) | ![qa](images/qa.png) | ![challenge](images/challenge.png) |
 
 
+## 🎥 Demo
+
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+
+📺 Click the image above to watch a full walkthrough of the Smart Research Assistant in action.
+
 ### 📌 Clone the repo
 ```bash
 git clone https://github.com/yourusername/smart-research-assistant.git
