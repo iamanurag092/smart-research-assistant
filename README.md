@@ -23,6 +23,17 @@ Runs fully **offline** on your machine — no OpenAI API keys needed, no quota l
 
 ---
 
+## ✨ Project Highlights
+
+🚀 **Runs fully offline:** No need for OpenAI API keys, billing, or internet beyond the first model download.  
+🧩 **Modular design:** Each function is separated into logical modules (`document_loader`, `summarizer`, `qa_module`, `question_gen`, `evaluator`), making it highly maintainable and extensible.  
+📝 **Research-focused:** Designed for academic papers and technical documents, but easily adaptable for general documents.  
+💡 **Smart logic:** Uses sentence transformers (`all-MiniLM-L6-v2`) for semantic similarity, T5 for question generation, and BART for summarization and feedback — all local.  
+🎯 **Streamlit-powered UI:** Instant web interface with no heavy frontend coding.  
+⚡ **Deploy-ready:** 1-click deployment on Streamlit Cloud for easy sharing and demonstration.
+
+---
+
 ## ⚡ Quick Start
 
 ### 📌 Clone the repo
