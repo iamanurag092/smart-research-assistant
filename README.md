@@ -38,7 +38,7 @@ Runs fully **offline** on your machine — no OpenAI API keys needed, no quota l
 
 | Upload Document | Ask Anything | Challenge & Evaluation |
 |-----------------|--------------|------------------------|
-| ![upload](images/upload.png) | ![qa](images/qa.png) | ![challenge](images/challenge.png) |
+| ![upload](images/upload.png) | ![qa](images/qa.png) |
 
 
 ## 🎥 Demo
