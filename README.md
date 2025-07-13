@@ -1,5 +1,6 @@
 # 📚 Smart Research Assistant (Offline AI App)
 
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-research-assistant-anuragt092.streamlit.app)
 An AI-powered offline research assistant built with **Streamlit** and **Hugging Face Transformers**.  
 Upload PDF/TXT documents and the assistant will:
 
