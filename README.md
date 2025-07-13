@@ -36,14 +36,14 @@ Runs fully **offline** on your machine — no OpenAI API keys needed, no quota l
 
 ## 📸 Screenshots
 
-| Upload Document | Ask Anything | Challenge & Evaluation |
+| Upload Document | Ask Anything | 
 |-----------------|--------------|------------------------|
 | ![upload](upload.png) | ![qa](qa.png) |
 
 
 ## 🎥 Demo
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/OapPrLIMpPk)
 
 📺 Click the image above to watch a full walkthrough of the Smart Research Assistant in action.
 
