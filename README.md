@@ -51,3 +51,13 @@ Runs fully **offline** on your machine — no OpenAI API keys needed, no quota l
 ```bash
 git clone https://github.com/yourusername/smart-research-assistant.git
 cd smart-research-assistant
+
+```
+---
+
+🚀 Thank you for exploring the Smart Research Assistant!  
+I hope this project inspires you to push the boundaries of what's possible with NLP and local AI applications.
+
+If you have suggestions, questions, or just want to connect, feel free to reach out.  
+Let's build smarter tools together! 💡
+
